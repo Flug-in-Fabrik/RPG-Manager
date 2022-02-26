@@ -1,0 +1,6 @@
+name: RPG-Manager
+main: AndaMiro\RpgManager
+author: AndaMiro
+version: "1.0.0"
+api:
+- 4.0.0

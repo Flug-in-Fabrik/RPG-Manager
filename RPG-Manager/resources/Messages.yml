@@ -1,0 +1,21 @@
+#Stat Message
+levelup-stat: "스탯 능력치가 업데이트 되었습니다."
+
+#Equipment Message
+not-equals-job: "장착중인 장비중 맞지않는 직업의 장비가 있습니다.\n - 해당 장비의 능력치는 적용되지 않습니다."
+not-helmet-equipment: "헬멧 장비칸에 맞지않는 장비가 있습니다.\n -  해당 장비의 능력치는 적용되지 않습니다."
+not-enough-level-helmet: "장착중인 헬멧이 레벨에 맞지 않습니다.\n - 해당 장비의 능력치는 적용되지 않습니다."
+not-chestplate-equipment: "흉갑 장비칸에 맞지않는 장비가 있습니다.\n -  해당 장비의 능력치는 적용되지 않습니다."
+not-enough-level-chestplate: "장착중인 흉갑이 레벨에 맞지 않습니다.\n - 해당 장비의 능력치는 적용되지 않습니다."
+not-leggins-equipment: "바지 장비칸에 맞지않는 장비가 있습니다.\n -  해당 장비의 능력치는 적용되지 않습니다."
+not-enough-level-leggins: "장착중인 바지가 레벨에 맞지 않습니다.\n - 해당 장비의 능력치는 적용되지 않습니다."
+not-boots-equipment: "신발 장비칸에 맞지않는 장비가 있습니다.\n -  해당 장비의 능력치는 적용되지 않습니다."
+not-enough-level-boots: "장착중인 신발이 레벨에 맞지 않습니다.\n - 해당 장비의 능력치는 적용되지 않습니다."
+not-weapon-equipment: "무기 장비칸에 맞지않는 장비가 있습니다.\n -  해당 장비의 능력치는 적용되지 않습니다."
+not-enough-level-weapon: "장착중인 무기가 레벨에 맞지 않습니다.\n - 해당 장비의 능력치는 적용되지 않습니다."
+not-assistantweapon-equipment: "장비구 장비칸에 맞지않는 장비가 있습니다.\n -  해당 장비의 능력치는 적용되지 않습니다."
+not-enough-level-assistantweapon: "장착중인 장비구가 레벨에 맞지 않습니다.\n - 해당 장비의 능력치는 적용되지 않습니다."
+
+#Job Message
+already-has-job: "이미 전직중인 직업이 존재합니다."
+set-job: "전직을 완료하였습니다."
